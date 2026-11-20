@@ -1,0 +1,5 @@
+User-agent: WebsiteLaunchesBot
+Disallow: /
+
+User-agent: *
+Allow: /
